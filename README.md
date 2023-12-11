@@ -1,5 +1,5 @@
 
-All Features of application:
+All Features of AHK:
 - voice acting
 - bootstrap programm on Windows startup
 - hotstrings
