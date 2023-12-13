@@ -7,7 +7,7 @@ All Features of AHK:
 - mouse wheel?
 - external numPad
 
-I will be glad to hear the comparisons of AHK with Python, Bash and other analogues. Are they more flexible, easier, more concise?
+I will be glad to hear the comparisons of AHK with Python, Bash and other analogues. Are they more flexible, easier, more concise? (my Telegram: https://t.me/nBozhok)
 
 
 
