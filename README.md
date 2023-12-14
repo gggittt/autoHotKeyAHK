@@ -23,6 +23,11 @@ All Features of AHK:
 - try to replace programs:
 - - punto (shift, Insert)
 - - keyManager All (write out all the functions of the which will not work)
+ 
+- dont know way to:
+- - 1 key to toggle micro
+  - open different chrome windows from code
+  - 
 
 I will be glad to hear the comparisons of AHK with Python, Bash and other analogues. Are they more flexible, easier, more concise? (my Telegram: https://t.me/nBozhok)
 
