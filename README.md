@@ -28,8 +28,13 @@ All Features of AHK:
 - - 1 key to toggle micro
   - open different chrome windows from code
   - 
-- lazy to use:
+
+- I was lazy to use:
 - - alt+mouse wheel
+
+google all new functions 
+
+Selenuim
 
 
 I will be glad to hear the comparisons of AHK with Python, Bash and other analogues. Are they more flexible, easier, more concise? (my Telegram: https://t.me/nBozhok)
