@@ -38,6 +38,12 @@ google all new functions
   - ahk 2.0
 
 
+1. test
+3. 2
+1. 3
+1. 4
+
+
 
 I will be glad to hear the comparisons of AHK with Python, Bash and other analogues. Are they more flexible, easier, more concise? (my Telegram: https://t.me/nBozhok)
 
