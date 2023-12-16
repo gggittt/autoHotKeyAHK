@@ -27,6 +27,7 @@ All Features of AHK:
 - bootstrap programm on Windows startup
 - hotstrings
 - - ru/eng
+  - caode execution
 - states: double / triple / multi click 
 - mouse wheel?
 - external numPad
