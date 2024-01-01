@@ -4,6 +4,23 @@
 
 
 <!--- 
+
+Выполнение циклов и обработка окон, файлов и папок
+Получение полного пути и имени процесса, владеющего определенным окном (#WinGetProcess)
+Изменение клавиш для маскирования событий Win или Alt (#MenuMaskKey)
+
+ahk create file 
+
+try
+{
+    FileCopy, file1.txt, C:\folder
+    FileDelete, C:\folder\old.txt
+}
+catch
+    MsgBox An error occured!
+
+    
+
 1. test
 3. 2
 1. 3
