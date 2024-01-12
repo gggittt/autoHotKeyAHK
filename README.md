@@ -1,9 +1,15 @@
 
 table test
-| head1 | head2 |head3|
-|-|--|-|
-| cell1| cell2   |  cell3 
 
+| head1 | head2 |head3
+|-|-|-
+cell1
+| cell1| cell2   
+ cell1| cell2   |  cell3 
+| cell1| cell2   |  cell3 | this will not show
+
+
+---
 
 <!--- 
 
