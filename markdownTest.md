@@ -1,6 +1,9 @@
 
 
-❓❔⁉ ❗❕‼ = как в Sublime 
+❓  ❔  ⁉  ❗  ❕  ‼ = как в Sublime 
+
+
+
 💢😈 💥💣🧨
 💚  💜💙💛  💖💗❣
 
@@ -19,7 +22,7 @@ cell1
 
 
 ---
-пример .md из https://github.com/OpenDevin/OpenDevin/blob/main/README.md?plain=1
+пример ниже взял из .md из https://github.com/OpenDevin/OpenDevin/blob/main/README.md?plain=1
 <details>
 <summary>🗂️ Table of Contents</summary>
 один
