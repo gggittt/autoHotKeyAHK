@@ -23,6 +23,7 @@
 ---
 
 7. можно дополнить скрипт часто используемыми emoji: [hotStringsEmojiExample.ahk](https://github.com/gggittt/autoHotKeyAHK/blob/main/hotStringsEmojiExample.ahk)
+   - если скрипты получились большими, то для удобочитаемости можно разбить скрипты на 2 или более файлов. Например, hotStringsCommon.ahk, hotStringsEmoji.ahk, hotStringsForJob.ahk
 8. чтобы hotString работала на всех раскладках, можно дописать ту же строку автозамены на другом языке <br>
 ::grqq::GraphQL  <br>
 ::пкйй::GraphQL <br>
