@@ -3,7 +3,7 @@
    - у меня версия 1.0, но все описанные мной скрипты тоже должны работать и в 2.0
 2. установить скачанный autoHotKey
 3. создать файл yourScriptName.ahk
-   - либо сразу выбрать AutoHotkey Script.ahk
+   - либо сразу выбрать `Создать -> AutoHotkey Script.ahk`
    - либо создать текстовый файл и дописать расширение .ahk
 ![image](https://github.com/gggittt/autoHotKeyAHK/assets/69504430/d1d7892b-a0d4-42e2-a6c0-ecaf9d874bab)
 5. проверить что у файла формать `UTF-8 with BOM`. При иных форматах может баговать кириллица
