@@ -20,4 +20,6 @@
    ![image](https://github.com/gggittt/autoHotKeyAHK/assets/69504430/06b79eaf-75f0-4d0b-b2c6-2cb44f340112)
 6. впечатать в любое текстовое поле `dbb`
 7. можно дополнить скрипт часто используемыми emoji: [hotStringsEmojiExample.ahk](https://github.com/gggittt/autoHotKeyAHK/blob/main/hotStringsEmojiExample.ahk)
-
+8. чтобы hotString работала на всех раскладках, можно дописать ту же строку автозамены на другом языке
+::dbb::dBeaver <br>
+::вии::dBeaver <br>
