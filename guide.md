@@ -17,4 +17,8 @@
 ![image](https://github.com/gggittt/autoHotKeyAHK/assets/69504430/823c69f3-1eee-419d-aa5f-600b10211f23)
 7. Можно начать писать скрипты. Проще всего начать писать строки [автозамены](https://github.com/gggittt/autoHotKeyAHK/blob/main/hotStrings.md)
 
+⚠️ Чтобы скрипт заработал после включения компьютера его нужно заново запустить. Двойным кликом или опцией Run script 
+![image](https://github.com/gggittt/autoHotKeyAHK/assets/69504430/e6499c49-b2eb-450e-9f9f-3c943ca8149a)
+
+
 
