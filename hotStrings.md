@@ -7,7 +7,7 @@
 - в конце id (81) можно менять. Для примера можно взять id с 75 до 200
 - либо можно задать свой значок в трее: `Menu, Tray, Icon,  D:\someFolder\somePictureName.png`
 
-![image](https://github.com/gggittt/autoHotKeyAHK/assets/69504430/c56544fa-8578-428f-bbf9-2c1c67bc6b5e)
+<!-- ![image](https://github.com/gggittt/autoHotKeyAHK/assets/69504430/c56544fa-8578-428f-bbf9-2c1c67bc6b5e) -->
 
 2. Прописать строки автозамены: <br>
 ::grqq::GraphQL  <br>
