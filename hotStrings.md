@@ -10,7 +10,7 @@
 ![image](https://github.com/gggittt/autoHotKeyAHK/assets/69504430/c56544fa-8578-428f-bbf9-2c1c67bc6b5e)
 
 2. Прописать строки автозамены: <br>
-::dbb::dBeaver <br>
+::grqq::GraphQL  <br>
 ::фактт::Фактический результат:  ❌<br>
 ::ожидд::Ожидаемый результат:<br>
 
@@ -18,8 +18,13 @@
 4. запустить файл
 5. проверить что файл запустился (в трее появился новый значок)
    ![image](https://github.com/gggittt/autoHotKeyAHK/assets/69504430/06b79eaf-75f0-4d0b-b2c6-2cb44f340112)
-6. впечатать в любое текстовое поле `dbb`
+6. впечатать в любое текстовое поле `grqq`
+
+---
+
 7. можно дополнить скрипт часто используемыми emoji: [hotStringsEmojiExample.ahk](https://github.com/gggittt/autoHotKeyAHK/blob/main/hotStringsEmojiExample.ahk)
 8. чтобы hotString работала на всех раскладках, можно дописать ту же строку автозамены на другом языке <br>
-::dbb::dBeaver <br>
-::вии::dBeaver <br>
+::grqq::GraphQL  <br>
+::пкйй::GraphQL <br>
+
+![image](https://github.com/gggittt/autoHotKeyAHK/assets/69504430/15eb43be-083e-4c5f-bd1b-eb77ac3d7595)
