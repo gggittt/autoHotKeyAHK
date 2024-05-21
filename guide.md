@@ -15,6 +15,6 @@
 ![image](https://github.com/gggittt/autoHotKeyAHK/assets/69504430/1c48bd3f-3f5d-4b57-9b2a-0b0e4f830b08)
    - Выбрать формат `UTF-8 with BOM`. `UTF-8 with BOM` может быть выбран по умолчанию
 ![image](https://github.com/gggittt/autoHotKeyAHK/assets/69504430/823c69f3-1eee-419d-aa5f-600b10211f23)
-7. Можно начать писать скрипты. Проще всего начать писать строки [автозамены](https://github.com/gggittt/autoHotKeyAHK/edit/main/hotStrings.md)
+7. Можно начать писать скрипты. Проще всего начать писать строки [автозамены](https://github.com/gggittt/autoHotKeyAHK/blob/main/hotStrings.md)
 
 
