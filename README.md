@@ -1,4 +1,11 @@
 
+
+Start with [guide](https://github.com/gggittt/autoHotKeyAHK/blob/main/guide.md)
+
+
+
+
+
 <!--- 
 
 Выполнение циклов и обработка окон, файлов и папок
@@ -38,7 +45,7 @@ test2
 
 
 
-All Features of AHK:
+# All Features of AHK:
 - voice acting
 - - by timer, date, delay 
 - bootstrap programm on Windows startup
