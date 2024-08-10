@@ -8,6 +8,7 @@
 
 <!--- 
 
+
 гитхаб предложил workflows https://github.com/gggittt/autoHotKeyAHK/actions/new
 
 todo расписать чёткий план для каждой фичи. чтобы была понятна длина видео для youTube 
